@@ -1,0 +1,44 @@
+* {
+  box-sizing: inherit;
+  font-family: "Playfair Display", serif;
+  color: black;
+  font-size: 16px;
+}
+
+.form {
+  border: 2px solid black;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form-title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.form-sections {
+  border: 2px solid black;
+  width: 570px;
+  margin: 0 auto 10px;
+  padding: 5px;
+}
+
+.form-sections__title {
+  font-size: 20px;
+}
+
+.answer {
+  font-size: 25px;
+  text-align: center;
+}
+
+.button {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+  border: 3px solid black;
+  outline: none;
+  background-color: transparent;
+  padding: 10px 40px;
+  margin-bottom: 20px;
+}
