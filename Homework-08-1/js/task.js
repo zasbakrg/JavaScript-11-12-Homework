@@ -67,8 +67,8 @@ const checkQuiz = (form, questions) => {
       }
     });
     (countCorrectAnswer * 100) / questions.length >= 80
-      ? (answer.textContent = "Неудача")
-      : (answer.textContent = "Удача");
+      ? (answer.textContent = "Удача")
+      : (answer.textContent = "Неудача");
   });
 };
 
