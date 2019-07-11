@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "-",
+  "homepage": "https://zasbakrg.github.io/JavaScript-11-12-Homework/Homework-10/index.html",
   "keywords": [],
   "author": "Zasbakrg@gmail.com>",
   "license": "ISC",
